@@ -235,7 +235,7 @@ img {
   padding: var(--bd-padding);
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 3 rem;
   align-items: flex-start;
 }
 .offers .btn {
